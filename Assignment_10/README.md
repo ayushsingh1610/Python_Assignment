@@ -21,3 +21,12 @@ even and odd numbers. For example, if the limit is 3, it should print:
 2. 1 ODD
 3. 2 EVEN
 4. 3 ODD
+
+Write a Python function to find the Max of three numbers. 
+Write a Python function to sum all the numbers in a list. 
+Write a Python function to multiply all the numbers in a list
+Write a Python function to check whether a number is in a given range
+Write a Python function to print the even numbers from a given list
+Write a function to calculate the sum of 4 digit number both without recursion and using recursion
+Write a program using returning multiple values to calculate square , cube and square root of a number
+Write a program using returning multiple values to calculate area and perimeter of a rectangle.
