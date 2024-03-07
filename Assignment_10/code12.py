@@ -9,4 +9,5 @@ def calculate():
 area, perimeter = calculate()
 
 print("\nArea of Rectangle = ", area)
+
 print("Perimeter of Rectangle = ", perimeter)
