@@ -3,11 +3,10 @@
 num = int(input("Enter the number = "))
 
 def recur(num):
-    if(num<0):
+    if(num==0):
         return 0
     else:
-        num = int(num/10)
-        return num%10 + recur(num)
+        return num%10 + recur(int(num/10))
 
 def not_recur(num):
     sum=0
@@ -17,6 +16,6 @@ def not_recur(num):
         num = int(num/10)
     return sum 
 
-print("Answer using Recursion = ", recur(num))
+print("\nAnswer using Recursion = ", recur(num))
 print("Answer without using Recursion = ", not_recur(num))
 
