@@ -8,5 +8,5 @@ for i in range(1, n+1):
     else:
         odd+=1
 
-print("Even number in giver range = ", even)
-print("ODD number in giver range = ", odd)
+print("Even number in given range = ", even)
+print("ODD number in given range = ", odd)
