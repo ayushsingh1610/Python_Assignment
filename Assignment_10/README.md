@@ -30,3 +30,5 @@ Write a Python function to print the even numbers from a given list
 Write a function to calculate the sum of 4 digit number both without recursion and using recursion
 Write a program using returning multiple values to calculate square , cube and square root of a number
 Write a program using returning multiple values to calculate area and perimeter of a rectangle.
+Write a program using variable length arguments to sum up the numbers till values given in function.
+Write a program using variable length arguments to calculate the average of numbers till the values given in function.
